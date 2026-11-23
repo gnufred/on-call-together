@@ -35,3 +35,7 @@ Choose any meeting service with live video and audio. Turn on your webcam and mi
 Set a timer for 25–30 minutes. ⏱️
 
 When you **host**, listen with respect and an open mind, without judgment. Give your guests room to share.
+
+## Finding an IT job in France
+
+Bring one job ad to your next call. Use it to decide whether to apply, turn a piece of work into a CV bullet, and practise a question an interviewer might ask. The English-language guide includes searches and recruiter messages for people applying from France or planning a move there. [Find your next IT job in France](job-search/2026-11-23/README.md)
