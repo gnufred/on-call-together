@@ -1,8 +1,8 @@
 # IT hiring and AI-related layoffs in the U.S. and EU
 
-November 12–25, 2026
+Snapshot as of November 25, 2026, covering reporting from November 12 to 25.
 
-AI is already affecting some hiring decisions, especially for junior software roles with a heavy coding workload. Several employers also linked planned workforce reductions to changes in how they invest in or use AI. As of November 25, the evidence for an accelerating AI-driven layoff wave across the U.S. and EU remains limited. The latest official employment figures describe earlier months or quarters.
+AI is already affecting some hiring decisions, especially for junior software roles with a heavy coding workload. Several employers also linked planned workforce reductions to changes in how they invest in or use AI. The evidence for an accelerating AI-driven layoff wave across the U.S. and EU remains limited. The latest official employment figures describe earlier months or quarters.
 
 ## U.S. layoff announcements and employment
 
